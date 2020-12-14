@@ -1,19 +1,26 @@
 {
-  ":name": "Plesky Web",
+  ":name": "Group of supercritical fluid extraction WEB",
   ":locales": [
-    "cs"
+    "cs",
+    "en"
   ],
   "nav": {
+    ":name": "Navigační lišta",
+    "logo-alt": {
+      ":description": "Popisek loga",
+      ":type": "line"
+    },
     "entries": {
       ":items": {
         "label": {
           ":name": "štítek",
           ":type": "line"
+        },
+        "to": {
+          ":name": "odkaz",
+          ":type": "line"
         }
       }
     }
-  },
-  "pages": {
-
   }
 }
