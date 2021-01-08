@@ -1,5 +1,5 @@
 {
-  ":name": "Group of supercritical fluid extraction WEB",
+  ":name": "Group of supercritical fluid extraction",
   ":locales": [
     "cs",
     "en"
@@ -13,11 +13,30 @@
     "entries": {
       ":items": {
         "label": {
-          ":name": "štítek",
+          ":name": "nápis",
           ":type": "line"
         },
         "to": {
           ":name": "odkaz",
+          ":type": "line"
+        }
+      }
+    }
+  },
+  "index": {
+    ":name": "Domovská stránka",
+    "heroTitle": {
+      ":type": "text"
+    },
+    "heroIntro": {
+      ":type": "text"
+    },
+    "cards": {
+      ":items": {
+        "title": {
+          ":type":"line"
+        },
+        "body": {
           ":type": "line"
         }
       }
