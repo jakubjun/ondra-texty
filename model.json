@@ -27,7 +27,8 @@
     ":name": "Domovská stránka",
     "heroTitle": {
       ":name": "Nadpis",
-      ":type": "text"
+      ":type": "text",
+      ":richtext": true
     },
     "heroIntro": {
       ":name": "Úvod",
