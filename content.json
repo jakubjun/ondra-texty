@@ -6,6 +6,43 @@
           "label": "hello"
         }
       ]
+    },
+    "index": {
+      "heroTitle": "Lorem ipsum dolor sit amet",
+      "heroIntro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis quam reprehenderit. Iusto rem earum hic blanditiis voluptas laborum reprehenderit dolor alias itaque. Fuga unde provident quas officiis ab vero!",
+      "cards": [
+        {
+          "title": "eeeee",
+          "body": "eeeee"
+        },
+        {
+          "title": "ddddd",
+          "body": "ddddd"
+        },
+        {
+          "title": "ccccc",
+          "body": "ccccc"
+        },
+        {
+          "title": "bbbb",
+          "body": "bbbbb"
+        },
+        {
+          "title": "aaaaa",
+          "body": "aaaaaaa"
+        }
+      ]
+    }
+  },
+  "en": {
+    "index": {
+      "cards": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
     }
   }
 }
