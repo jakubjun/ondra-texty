@@ -3,7 +3,12 @@
     "nav": {
       "entries": [
         {
-          "label": "hello"
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "SecondLayout",
+          "to": "/second"
         }
       ]
     },
@@ -40,6 +45,12 @@
         {},
         {},
         {},
+        {},
+        {}
+      ]
+    },
+    "nav": {
+      "entries": [
         {},
         {}
       ]
