@@ -3,18 +3,18 @@
     "nav": {
       "entries": [
         {
-          "label": "Home",
+          "label": "Domu",
           "to": "/"
         },
         {
-          "label": "SecondLayout",
+          "label": "DruhyLayout",
           "to": "/second"
         }
       ]
     },
     "index": {
-      "heroTitle": "Lorem ipsum dolor sit amet",
-      "heroIntro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis quam reprehenderit. Iusto rem earum hic blanditiis voluptas laborum reprehenderit dolor alias itaque. Fuga unde provident quas officiis ab vero!",
+      "heroTitle": "CZ Lorem ipsum dolor sit amet",
+      "heroIntro": "CZ Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis quam reprehenderit. Iusto rem earum hic blanditiis voluptas laborum reprehenderit dolor alias itaque. Fuga unde provident quas officiis ab vero!",
       "cards": [
         {
           "title": "eeeee",
@@ -47,12 +47,20 @@
         {},
         {},
         {}
-      ]
+      ],
+      "heroTitle": "EN Lorem ipsum dolor sit amet",
+      "heroIntro": "EN Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis quam reprehenderit. Iusto rem earum hic blanditiis voluptas laborum reprehenderit dolor alias itaque. Fuga unde provident quas officiis ab vero!"
     },
     "nav": {
       "entries": [
-        {},
-        {}
+        {
+          "label": "Home",
+          "to": "/"
+        },
+        {
+          "label": "SecondLayout",
+          "to": "/second"
+        }
       ]
     }
   }
