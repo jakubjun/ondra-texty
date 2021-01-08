@@ -13,11 +13,11 @@
     "entries": {
       ":items": {
         "label": {
-          ":name": "nápis",
+          ":name": "Nápis",
           ":type": "line"
         },
         "to": {
-          ":name": "odkaz",
+          ":name": "Odkaz",
           ":type": "line"
         }
       }
@@ -26,17 +26,22 @@
   "index": {
     ":name": "Domovská stránka",
     "heroTitle": {
+      ":name": "Nadpis",
       ":type": "text"
     },
     "heroIntro": {
+      ":name": "Úvod",
       ":type": "text"
     },
     "cards": {
+      ":name": "Karty",
       ":items": {
         "title": {
+          ":name": "Nadpis",
           ":type":"line"
         },
         "body": {
+          ":name": "Tělo",
           ":type": "line"
         }
       }
