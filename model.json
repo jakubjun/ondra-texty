@@ -19,6 +19,16 @@
         "to": {
           ":name": "Odkaz",
           ":type": "line"
+        },
+        "sub": {
+          ":items": {
+            "label": {
+              ":type": "line"
+            },
+            "to": {
+              ":type": "line"
+            }
+          }
         }
       }
     }
@@ -27,8 +37,7 @@
     ":name": "Domovská stránka",
     "heroTitle": {
       ":name": "Nadpis",
-      ":type": "text",
-      ":richtext": true
+      ":type": "text"
     },
     "heroIntro": {
       ":name": "Úvod",
@@ -43,6 +52,54 @@
         },
         "body": {
           ":name": "Tělo",
+          ":type": "line"
+        },
+        "to": {
+          ":name": "Odkaz",
+          ":type": "line"
+        }
+      }
+    }
+  },
+  "team": {
+    ":items": {
+      "name": {
+        ":type": "line"
+      },
+      "role": {
+        ":type": "line"
+      },
+      "bio": {
+        ":type": "text"
+      },
+      "career": {
+        ":type": "line"
+      },
+      "publications": {
+        ":items": {
+          "title": {
+            ":type": "line"
+          },
+          "authors": {
+            ":type": "line"
+          },
+          "link": {
+            ":type": "line"
+          }
+        }
+      },
+      "contact": {
+        ":type": "text"
+      }
+    }
+  },
+  "footer": {
+    "heading": {
+      ":type": "line"
+    },
+    "contact": {
+      ":items": {
+        "text": {
           ":type": "line"
         }
       }

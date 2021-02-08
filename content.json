@@ -3,38 +3,81 @@
     "nav": {
       "entries": [
         {
-          "label": "Domu",
+          "label": "Domů",
           "to": "/"
         },
         {
-          "label": "DruhyLayout",
-          "to": "/second"
+          "label": "Výzkum",
+          "to": "/research",
+          "sub": [
+            {
+              "label": "Extrakce",
+              "to": "/research/extraction"
+            },
+            {
+              "label": "Frakcionace",
+              "to": "/research/fractionation"
+            },
+            {
+              "label": "Enzymatické reakce",
+              "to": "/research/enzymatic-reactions"
+            },
+            {
+              "label": "Impregnace",
+              "to": "/research/impregnation"
+            },
+            {
+              "label": "TiO₂",
+              "to": "/research/tio2"
+            }
+          ]
+        },
+        {
+          "label": "Poskytované služby",
+          "to": "/services"
+        },
+        {
+          "label": "Užitečné odkazy",
+          "to": "/links"
+        },
+        {
+          "label": "Lidé",
+          "to": "/people"
+        },
+        {
+          "label": "Kontakty",
+          "to": "/contact"
         }
       ]
     },
     "index": {
-      "heroTitle": "<p>CZ Lorem ipsum dolor sit amet ***</p>",
+      "heroTitle": "CZ Lorem ipsum dolor sit amet",
       "heroIntro": "CZ Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis quam reprehenderit. Iusto rem earum hic blanditiis voluptas laborum reprehenderit dolor alias itaque. Fuga unde provident quas officiis ab vero!",
       "cards": [
         {
-          "title": "eeeee",
-          "body": "eeeee"
+          "title": "Extrakce",
+          "body": "eeeee",
+          "to": "/research/extraction"
         },
         {
-          "title": "ddddd",
-          "body": "ddddd"
+          "title": "Frakcionace",
+          "body": "ddddd",
+          "to": "/research/fractionation"
         },
         {
-          "title": "ccccc",
-          "body": "ccccc"
+          "title": "Enzymatické reakce",
+          "body": "ccccc",
+          "to": "/research/enzymatic-reactions"
         },
         {
-          "title": "bbbb",
-          "body": "bbbbb"
+          "title": "Tvorba částic",
+          "body": "bbbbb",
+          "to": "/research/particle-formation"
         },
         {
-          "title": "aaaaa",
-          "body": "aaaaaaa"
+          "title": "Impregnace",
+          "body": "aaaaaaa",
+          "to": "/research/impregnation"
         }
       ]
     }
@@ -42,11 +85,31 @@
   "en": {
     "index": {
       "cards": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "title": "Extraction",
+          "body": "eeeee",
+          "to": "/research/extraction"
+        },
+        {
+          "title": "Fractionation",
+          "body": "ddddd",
+          "to": "/research/fractionation"
+        },
+        {
+          "title": "Enzymatic Reactions",
+          "body": "ccccc",
+          "to": "/research/enzymatic-reactions"
+        },
+        {
+          "title": "Particle Formation",
+          "body": "bbbbb",
+          "to": "/research/particle-formation"
+        },
+        {
+          "title": "Impregnation",
+          "body": "aaaaaaa",
+          "to": "/research/impregnation"
+        }
       ],
       "heroTitle": "EN Lorem ipsum dolor sit amet",
       "heroIntro": "EN Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis quam reprehenderit. Iusto rem earum hic blanditiis voluptas laborum reprehenderit dolor alias itaque. Fuga unde provident quas officiis ab vero!"
@@ -58,8 +121,46 @@
           "to": "/"
         },
         {
-          "label": "SecondLayout",
-          "to": "/second"
+          "label": "Research",
+          "to": "/research",
+          "sub": [
+            {
+              "label": "Extraction",
+              "to": "/research/extraction"
+            },
+            {
+              "label": "Fractionation",
+              "to": "/research/fractionation"
+            },
+            {
+              "label": "Enzymatic Reactions",
+              "to": "/research/enzymatic-reactions"
+            },
+            {
+              "label": "Impregnation",
+              "to": "/research/impregnation"
+            },
+            {
+              "label": "TiO₂",
+              "to": "/research/tio2"
+            }
+          ]
+        },
+        {
+          "label": "Poskytované služby",
+          "to": "/services"
+        },
+        {
+          "label": "Užitečné odkazy",
+          "to": "/links"
+        },
+        {
+          "label": "Lidé",
+          "to": "/people"
+        },
+        {
+          "label": "Kontakty",
+          "to": "/contact"
         }
       ]
     }
