@@ -97,11 +97,34 @@
     "heading": {
       ":type": "line"
     },
-    "contact": {
+    "organization": {
       ":items": {
         "text": {
           ":type": "line"
         }
+      }
+    },
+    "address": {
+      ":items": {
+        "text": {
+          ":type": "line"
+        }
+      }
+    },
+    "tel": {
+      ":type": "line"
+    }
+  },
+  "error": {
+    "notFound": {
+      "heading": {
+        ":type": "line"
+      },
+      "body": {
+        ":type": "text"
+      },
+      "homepageLink": {
+        ":type": "line"
       }
     }
   }

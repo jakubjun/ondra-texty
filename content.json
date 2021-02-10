@@ -82,7 +82,39 @@
       ]
     },
     "footer": {
-      "heading": "Kontakt"
+      "heading": "Kontakt",
+      "organization": [
+        {
+          "text": "Skupina superkritických technologií"
+        },
+        {
+          "text": "Oddělení pokročilých materiálů a organické syntézy"
+        }
+      ],
+      "address": [
+        {
+          "text": "Ústav chemických procesů AV ČŘ, v. v. i."
+        },
+        {
+          "text": "Rozvojová 135/1"
+        },
+        {
+          "text": "16502, Praha 6"
+        }
+      ],
+      "tel": "+420 220 390 241"
+    },
+    "error": {
+      "notFound": {
+        "heading": "Stránka nenalezena",
+        "body": "lorem ipsum dolor sit amet",
+        "homepageLink": "Zpět na domovskou stránku"
+      },
+      "unknown": {
+        "heading": "Neznámá chyba",
+        "body": "lorem ipsum dolor sit amet",
+        "homepageLink": "Zpět na domovskou stránku"
+      }
     }
   },
   "en": {
@@ -166,6 +198,29 @@
           "to": "/contact"
         }
       ]
+    },
+    "footer": {
+      "heading": "Kontakt",
+      "organization": [
+        {
+          "text": "Skupina superkritických technologií"
+        },
+        {
+          "text": "Oddělení pokročilých materiálů a organické syntézy"
+        }
+      ],
+      "address": [
+        {
+          "text": "Ústav chemických procesů AV ČŘ, v. v. i."
+        },
+        {
+          "text": "Rozvojová 135/1"
+        },
+        {
+          "text": "16502, Praha 6"
+        }
+      ],
+      "tel": "+420 220 390 241"
     }
   }
 }
