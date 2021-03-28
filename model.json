@@ -90,6 +90,9 @@
       },
       "contact": {
         ":type": "text"
+      },
+      "image": {
+        ":type": "text"
       }
     }
   },
