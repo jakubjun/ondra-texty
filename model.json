@@ -62,6 +62,15 @@
     }
   },
   "team": {
+    "title": {
+      ":type": "line"
+    },
+    "heading": {
+      ":type": "line"
+    },
+    "intro": {
+      ":type": "text"
+    },
     ":items": {
       "name": {
         ":type": "line"
