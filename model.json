@@ -73,7 +73,7 @@
         ":type": "text"
       },
       "career": {
-        ":type": "line"
+        ":type": "text"
       },
       "publications": {
         ":items": {
@@ -92,7 +92,7 @@
         ":type": "text"
       },
       "image": {
-        ":type": "text"
+        ":type": "line"
       }
     }
   },
