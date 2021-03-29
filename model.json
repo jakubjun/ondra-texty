@@ -1,9 +1,6 @@
 {
   ":name": "Group of supercritical fluid extraction",
-  ":locales": [
-    "cs",
-    "en"
-  ],
+  ":locales": ["cs", "en"],
   "nav": {
     ":name": "Navigační lišta",
     "logo-alt": {
@@ -48,7 +45,7 @@
       ":items": {
         "title": {
           ":name": "Nadpis",
-          ":type":"line"
+          ":type": "line"
         },
         "body": {
           ":name": "Tělo",
@@ -71,37 +68,42 @@
     "intro": {
       ":type": "text"
     },
-    ":items": {
-      "name": {
-        ":type": "line"
-      },
-      "role": {
-        ":type": "line"
-      },
-      "bio": {
-        ":type": "text"
-      },
-      "career": {
-        ":type": "text"
-      },
-      "publications": {
-        ":items": {
-          "title": {
-            ":type": "line"
-          },
-          "authors": {
-            ":type": "line"
-          },
-          "link": {
-            ":type": "line"
+    "members": {
+      ":items": {
+        "id": {
+          ":type": "line"
+        },
+        "image": {
+          ":type": "line"
+        },
+        "name": {
+          ":type": "line"
+        },
+        "role": {
+          ":type": "line"
+        },
+        "bio": {
+          ":type": "text"
+        },
+        "career": {
+          ":type": "text"
+        },
+        "contact": {
+          ":type": "text"
+        },
+        "publications": {
+          ":items": {
+            "title": {
+              ":type": "line"
+            },
+            "authors": {
+              ":type": "line"
+            },
+            "link": {
+              ":type": "line"
+            }
           }
         }
-      },
-      "contact": {
-        ":type": "text"
-      },
-      "image": {
-        ":type": "line"
       }
     }
   },

@@ -116,23 +116,25 @@
         "homepageLink": "Zpět na domovskou stránku"
       }
     },
-    "team": [
-      {
-        "image": "/img/team/marie.jpg",
-        "bio": "b",
-        "role": "r",
-        "name": "n",
-        "career": "aaefsfwwef",
-        "publications": [
-          {
-            "title": "aaa",
-            "authors": "aaa",
-            "link": "aaa"
-          }
-        ],
-        "contact": "wewefwef\n\nFWEWEF1"
-      }
-    ]
+    "team": {
+      "members": [
+        {
+          "image": "/img/team/marie.jpg",
+          "bio": "b",
+          "role": "r",
+          "name": "n",
+          "career": "aaefsfwwef",
+          "publications": [
+            {
+              "title": "aaa",
+              "authors": "aaa",
+              "link": "aaa"
+            }
+          ],
+          "contact": "wewefwef\n\nFWEWEF1"
+        }
+      ]
+    }
   },
   "en": {
     "index": {
@@ -239,12 +241,12 @@
       ],
       "tel": "+420 220 390 241"
     },
-    "team": [
-      {
-        "publications": [
-          {}
-        ]
-      }
-    ]
+    "team": {
+      "members": [
+        {
+          "publications": [{}]
+        }
+      ]
+    }
   }
 }
