@@ -131,7 +131,8 @@
               "link": "aaa"
             }
           ],
-          "contact": "wewefwef\n\nFWEWEF1"
+          "contact": "wewefwef\n\nFWEWEF1",
+          "id": "marie-test"
         }
       ]
     }
@@ -244,7 +245,9 @@
     "team": {
       "members": [
         {
-          "publications": [{}]
+          "publications": [
+            {}
+          ]
         }
       ]
     }
