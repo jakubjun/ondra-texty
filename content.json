@@ -117,13 +117,30 @@
       }
     },
     "team": {
+      "back": "Zpět na přehled členů",
       "members": [
+        {
+          "image": "/img/team/marie.jpg",
+          "bio": "Et eiusmod exercitation qui Lorem incididunt adipisicing quis laborum duis commodo. Qui aliquip enim ut ea cillum amet laboris consectetur do veniam. Incididunt cupidatat sint excepteur enim anim voluptate in sit incididunt. Excepteur veniam aliqua irure cillum. Dolor aute aliquip eiusmod minim eu eu ex ut laborum eiusmod officia ad.",
+          "role": "Head",
+          "name": "Ing. Marie Sajfrtová, Ph.D.",
+          "career": "aaefsfwwef",
+          "publications": [
+            {
+              "title": "aaa",
+              "authors": "aaa",
+              "link": "http://seznam.cz"
+            }
+          ],
+          "contact": "wewefwef\n\nFWEWEF1",
+          "id": "marie-test"
+        },
         {
           "image": "/img/team/marie.jpg",
           "bio": "b",
           "role": "r",
           "name": "n",
-          "career": "aaefsfwwef",
+          "career": "Est reprehenderit id tempor exercitation duis labore aliqua ut labore eiusmod. Culpa minim sit fugiat elit nulla fugiat. Excepteur incididunt sunt aliquip nisi sunt ipsum ullamco nulla sit pariatur eu id. Laborum elit elit veniam cillum laboris sit quis cupidatat deserunt. Aute officia quis reprehenderit aute sit culpa quis laboris pariatur commodo. Fugiat quis ex amet anim ex aute deserunt anim pariatur quis consequat quis voluptate laborum. Nostrud aliqua esse cillum consectetur id aliqua fugiat nostrud aliqua.",
           "publications": [
             {
               "title": "aaa",
@@ -132,7 +149,7 @@
             }
           ],
           "contact": "wewefwef\n\nFWEWEF1",
-          "id": "marie-test"
+          "id": "marie-test2"
         }
       ]
     }

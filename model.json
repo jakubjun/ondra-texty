@@ -68,6 +68,9 @@
     "intro": {
       ":type": "text"
     },
+    "back": {
+      ":type": "line"
+    },
     "members": {
       ":items": {
         "id": {
